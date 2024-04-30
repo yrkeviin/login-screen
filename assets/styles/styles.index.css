@@ -9,7 +9,7 @@
 
 body {
     background-color: rgb(160, 126, 255);
-    background: url(/login-screen/assets/images/go.jpg) no-repeat center;
+    background: url(/assets/images/go.jpg) no-repeat center;
     margin-top: 10%;
 }
 
@@ -36,6 +36,7 @@ body {
     outline: none;
     border-radius: 18px;
     background: transparent;
+    padding: 8px;
 }
 
 #senha input {
@@ -46,6 +47,7 @@ body {
     outline: none;
     border-radius: 18px;
     background: transparent;
+    padding: 8px;
 }
 
 #lembrar {
